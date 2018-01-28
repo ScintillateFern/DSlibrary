@@ -1,0 +1,19 @@
+Back Annotation Results Report
+------------------------------
+
+Report File:        E:\Scintillate\Works\2016\StarProducts\library\Series_Parallel_led (PCB - Back Annotation Results Report).txt
+Report Written:     Friday, July 22, 2016
+Project Path:       E:\Scintillate\Works\2016\StarProducts\library\Series_Parallel_led.prj
+Design Path:        E:\Scintillate\Works\2016\StarProducts\library\Series_Parallel_led.pcb
+Design Title:       
+Created:            04-02-2016 10:17:44
+Last Saved:         22-07-2016 21:18:06
+Editing Time:       6947 min
+Units:              mm (precision 3)
+
+Back Annotate renames from the PCB design to all Schematic designs in project "Series_Parallel_led".
+
+Error: Could not find  Net " N0123".
+
+
+End Of Report.

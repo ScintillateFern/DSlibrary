@@ -1,0 +1,19 @@
+Schematic and PCB Check Report
+------------------------------
+
+Report File:        E:\Scintillate\Works\2016\StarProducts\library\Series_Parallel_led (PCB - Schematic and PCB Check Report).txt
+Report Written:     Friday, July 22, 2016
+Project Path:       E:\Scintillate\Works\2016\StarProducts\library\Series_Parallel_led.prj
+Design Path:        E:\Scintillate\Works\2016\StarProducts\library\Series_Parallel_led.pcb
+Design Title:       
+Created:            04-02-2016 10:17:44
+Last Saved:         22-07-2016 21:21:19
+Editing Time:       6951 min
+Units:              mm (precision 3)
+
+
+Checking integrity of Schematic and Pcb designs in project "Series_Parallel_led"
+================================================================================
+
+
+End Of Report.
